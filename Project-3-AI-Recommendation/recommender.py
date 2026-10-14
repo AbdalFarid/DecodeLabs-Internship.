@@ -20,8 +20,8 @@ df['skills_text'] = df['skills'].str.replace('|', ' ', regex=False)
 print("=" * 65)
 print("  DecodeLabs Project 3 — Tech Stack Recommender")
 print("=" * 65)
-print(f"\n📊 Dataset Loaded: {len(df)} job roles")
-print(f"🔧 Unique Skills : {len(set(' '.join(df['skills_text']).split()))}")
+print(f"\n Dataset Loaded: {len(df)} job roles")
+print(f" Unique Skills : {len(set(' '.join(df['skills_text']).split()))}")
 
 vectorizer = TfidfVectorizer(
     lowercase=True,
@@ -39,7 +39,7 @@ def get_user_input():
     skills = [s.strip() for s in raw.split(",") if s.strip()]
 
     if len(skills) < 3:
-        print(f"\n⚠️  You entered {len(skills)} skill(s). Need at least 3 for accuracy.")
+        print(f"\n  You entered {len(skills)} skill(s). Need at least 3 for accuracy.")
         print("Using what you entered — results may be less accurate.\n")
     return skills
 
@@ -60,7 +60,7 @@ def recommend(scores, top_n=3):
 
 def display(results, user_skills):
     print("\n" + "=" * 65)
-    print("  🎯 TOP 3 RECOMMENDED CAREER PATHS")
+    print("   TOP 3 RECOMMENDED CAREER PATHS")
     print("=" * 65)
     print(f"  Based on your skills: {', '.join(user_skills)}\n")
 
@@ -73,7 +73,7 @@ def display(results, user_skills):
 
     top_role = results[0][0]
     print("=" * 65)
-    print(f"  💡 Best Fit: {top_role}")
+    print(f"   Best Fit: {top_role}")
     print("=" * 65)
 
 def main():
@@ -85,7 +85,7 @@ def main():
 
         again = input("\nTry another search? (y/n): ").strip().lower()
         if again != 'y':
-            print("\n👋 Thanks for using the Tech Stack Recommender!")
+            print("\n Thanks for using the Tech Stack Recommender!")
             break
 
 if __name__ == "__main__":
