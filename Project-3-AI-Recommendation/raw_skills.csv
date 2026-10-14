@@ -1,0 +1,36 @@
+﻿job_role,skills
+Data Scientist,Python|SQL|Machine Learning|Statistics|Pandas|NumPy|Data Analysis|Deep Learning
+DevOps Engineer,AWS|Docker|Kubernetes|CI/CD|Linux|Terraform|Jenkins|Git
+Backend Developer,Java|Python|SQL|REST APIs|Databases|Node.js|Docker|Git
+Frontend Developer,JavaScript|React|HTML|CSS|Vue.js|TypeScript|Webpack|UI Design
+Cloud Architect,AWS|Azure|GCP|Kubernetes|Terraform|Cloud Computing|Networking|Security
+ML Engineer,Python|TensorFlow|PyTorch|Machine Learning|MLOps|Docker|Deep Learning|Neural Networks
+Data Engineer,Python|SQL|Spark|Kafka|ETL|Airflow|AWS|Hadoop
+Full Stack Developer,JavaScript|React|Node.js|Python|SQL|MongoDB|HTML|CSS
+Cybersecurity Analyst,Networking|Linux|Security|Firewalls|Penetration Testing|Cryptography|SIEM
+Systems Administrator,Linux|Windows|Networking|Bash|PowerShell|Active Directory|VMware
+Cloud Engineer,AWS|Azure|Python|Docker|Kubernetes|Terraform|Cloud Computing|Automation
+Mobile Developer,Kotlin|Swift|React Native|Flutter|iOS|Android|REST APIs|Git
+Blockchain Developer,Solidity|Ethereum|Smart Contracts|Web3|Cryptography|JavaScript|Node.js
+Game Developer,C++|Unity|Unreal Engine|C#|3D Math|Physics|Graphics Programming|Git
+QA Engineer,Testing|Selenium|Automation|Python|JIRA|Test Cases|Cypress|CI/CD
+AI Research Scientist,Python|PyTorch|Deep Learning|Neural Networks|Mathematics|Research|TensorFlow|NLP
+NLP Engineer,Python|NLP|Transformers|BERT|spaCy|Deep Learning|Machine Learning|Hugging Face
+Computer Vision Engineer,Python|OpenCV|PyTorch|Deep Learning|TensorFlow|Image Processing|CNNs|CUDA
+Data Analyst,SQL|Excel|Python|Tableau|Power BI|Data Analysis|Statistics|Visualization
+Business Intelligence Analyst,SQL|Power BI|Tableau|Data Modeling|ETL|Excel|Data Analysis|Statistics
+Database Administrator,SQL|PostgreSQL|MySQL|MongoDB|Oracle|Database Design|Backup Recovery|Performance Tuning
+Site Reliability Engineer,Linux|Kubernetes|Docker|Prometheus|Grafana|CI/CD|AWS|Bash
+Platform Engineer,Kubernetes|Docker|Terraform|AWS|CI/CD|Linux|Helm|GitOps
+Security Engineer,Penetration Testing|Cryptography|Firewalls|SIEM|Linux|Networking|Python|Security
+Embedded Systems Engineer,C|C++|Microcontrollers|RTOS|Embedded Linux|Hardware|Firmware|ARM
+IoT Engineer,Python|C++|MQTT|Embedded Systems|Sensors|Networking|Cloud Computing|Edge Computing
+AR VR Developer,C#|Unity|Unreal Engine|3D Math|C++|Graphics Programming|Shaders|OpenXR
+Robotics Engineer,Python|C++|ROS|Computer Vision|Control Systems|Mathematics|Hardware|SLAM
+Prompt Engineer,Python|NLP|LLMs|Prompt Design|OpenAI API|LangChain|Machine Learning|Writing
+MLOps Engineer,Python|Docker|Kubernetes|MLflow|CI/CD|AWS|TensorFlow|Model Deployment
+DevSecOps Engineer,AWS|Docker|Kubernetes|Security|CI/CD|Terraform|Penetration Testing|Linux
+Solutions Architect,AWS|Azure|Cloud Computing|Networking|System Design|Security|Kubernetes|Terraform
+Technical Product Manager,Agile|Scrum|SQL|Data Analysis|Product Strategy|Roadmapping|Stakeholder Management|Analytics
+Technical Writer,Writing|Markdown|Git|Documentation|API Documentation|Python|DITA|Content Strategy
+SRE Manager,Linux|Kubernetes|Leadership|Incident Response|Monitoring|CI/CD|AWS|Team Management
